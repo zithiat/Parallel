@@ -7,7 +7,7 @@ public class SerialMultiplier {
         int rows1 = matrix1.length;
         int columns1 = matrix1[0].length;
 
-        int rows2 = matrix2.length;
+//        int rows2 = matrix2.length;
         int columns2 = matrix2[0].length;
 
         for (int i = 0; i < rows1; i++) {
