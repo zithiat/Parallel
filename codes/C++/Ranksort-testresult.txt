@@ -1,0 +1,61 @@
+//-----------
+// Sequential
+//-----------
+List generated
+Size: 10000
+Time: 434957
+
+List generated
+Size: 10000
+Time: 437405
+
+List generated
+Size: 10000
+Time: 439039
+
+List generated
+Size: 10000
+Time: 437532
+
+//-----------
+// Parallel
+// Threads: 2
+//-----------
+List generated
+Size: 10000
+Time: 0.245827
+
+List generated
+Size: 10000
+Time: 0.240106
+
+List generated
+Size: 10000
+Time: 0.255061
+
+List generated
+Size: 10000
+Time: 0.241679
+
+//-----------
+// Threads: 4
+//-----------
+List generated
+Size: 10000
+Time: 0.174813
+
+List generated
+Size: 10000
+Time: 0.201302
+
+List generated
+Size: 10000
+Time: 0.175354
+
+List generated
+Size: 10000
+Time: 0.20127
+
+
+
+
